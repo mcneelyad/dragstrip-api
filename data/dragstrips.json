@@ -1,0 +1,1372 @@
+[
+  {
+    "state": "Alaska",
+    "tracks": [
+      {
+        "name": "Alaska Raceway Park",
+        "city": "Palmer"
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "tracks": [
+      {
+        "name": "Alabama International Dragway",
+        "city": "Steele"
+      },
+      {
+        "name": "Atmore Dragway",
+        "city": "Atmore"
+      },
+      {
+        "name": "Baileyton Dragstrip",
+        "city": "Baileyton"
+      },
+      {
+        "name": "Camp Hill Dragstrip",
+        "city": "Camp Hill"
+      },
+      {
+        "name": "Chilton County Dragway",
+        "city": "Maplesville"
+      },
+      {
+        "name": "Holiday Raceway",
+        "city": "Woodstock"
+      },
+      {
+        "name": "Huntsville Dragway",
+        "city": "Harvest"
+      },
+      {
+        "name": "I-22 Motorsports",
+        "city": "Eldridge"
+      },
+      {
+        "name": "Jakes Drag Strip",
+        "city": "Moulton"
+      },
+      {
+        "name": "Lassiter Mountain Dragway",
+        "city": "Watson"
+      },
+      {
+        "name": "Mobile Dragway",
+        "city": "Irvington"
+      },
+      {
+        "name": "Montgomery International Dragway",
+        "city": "Montgomery"
+      },
+      {
+        "name": "New Bama Dragway",
+        "city": "Cordova"
+      },
+      {
+        "name": "Phenix Dragstrip",
+        "city": "Phenix City"
+      },
+      {
+        "name": "Sand Mountain Dragway",
+        "city": "Fyffe"
+      }
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "tracks": [
+      {
+        "name": "Centerville Dragway",
+        "city": "Centerville"
+      },
+      {
+        "name": "George Ray's Dragstrip",
+        "city": "Paragould"
+      },
+      {
+        "name": "Newport Raceway",
+        "city": "Newport"
+      },
+      {
+        "name": "Prescott Raceway",
+        "city": "Prescott"
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "tracks": [
+      {
+        "name": "Speedworld Raceway Park",
+        "city": "Wittman"
+      },
+      {
+        "name": "Tucson Dragway",
+        "city": "Tucson"
+      },
+      {
+        "name": "Wild Horse Pass Motorsports Park",
+        "city": "Chandler"
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "tracks": [
+      {
+        "name": "Auto Club - Famoso Raceway",
+        "city": "Bakersfield"
+      },
+      {
+        "name": "Auto Club Dragway",
+        "city": "Fontana"
+      },
+      {
+        "name": "Barona Dragstrip",
+        "city": "Lakeside"
+      },
+      {
+        "name": "Pomona Raceway",
+        "city": "Pomona"
+      },
+      {
+        "name": "Redding Drag Strip",
+        "city": "Redding"
+      },
+      {
+        "name": "Sacramento Raceway Park",
+        "city": "Sacramento"
+      },
+      {
+        "name": "Samoa Dragstrip",
+        "city": "Eureka"
+      },
+      {
+        "name": "Sonoma Raceway",
+        "city": "Sonoma"
+      },
+      {
+        "name": "Toyota Dragstrip at Irwindale",
+        "city": "Irwindale"
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "tracks": [
+      {
+        "name": "Bandimere Speedway",
+        "city": "Morrison"
+      },
+      {
+        "name": "Julesburg Drag Racing",
+        "city": "Julesburg"
+      },
+      {
+        "name": "Pueblo Motorsports Park",
+        "city": "Pueblo"
+      },
+      {
+        "name": "Western Colorado Dragway",
+        "city": "Grand Junction"
+      }
+    ]
+  },
+  {
+    "state": "Delaware",
+    "tracks": [
+      {
+        "name": "U.S. 13 Dragway",
+        "city": "Delmar"
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "tracks": [
+      {
+        "name": "Bradenton Motorsports Park",
+        "city": "Bradenton"
+      },
+      {
+        "name": "Countyline Dragway, Inc.",
+        "city": "Miami"
+      },
+      {
+        "name": "Emerald Coast Dragway",
+        "city": "Holt"
+      },
+      {
+        "name": "Gainesville Raceway",
+        "city": "Gainesville"
+      },
+      {
+        "name": "Immokalee Regional Raceway",
+        "city": "Immokalee"
+      },
+      {
+        "name": "Lakeland Motorsports Park",
+        "city": "Auburndale"
+      },
+      {
+        "name": "Orlando Speed World Dragway",
+        "city": "Orlando"
+      },
+      {
+        "name": "Palm Beach International Raceway",
+        "city": "Jupiter"
+      },
+      {
+        "name": "Showtime Dragstrip",
+        "city": "Clearwater"
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "tracks": [
+      {
+        "name": "Atlanta Dragway",
+        "city": "Commerce"
+      },
+      {
+        "name": "Brainerd Optimist Drag Strip",
+        "city": "Ringgold"
+      },
+      {
+        "name": "Douglas Motorsports Park Dragway",
+        "city": "Nicholls"
+      },
+      {
+        "name": "Middle Georgia Motorsports Park",
+        "city": "Jeffersonville"
+      },
+      {
+        "name": "Paradise Drag Strip",
+        "city": "Calhoun"
+      },
+      {
+        "name": "Savannah River Dragway",
+        "city": "Sylvania"
+      },
+      {
+        "name": "Silver Dollar Raceway",
+        "city": "Reynolds"
+      },
+      {
+        "name": "South Georgia Motorsports Park",
+        "city": "Adel"
+      },
+      {
+        "name": "U.S. 19 Dragway",
+        "city": "Albany"
+      }
+    ]
+  },
+  {
+    "state": "Hawaii",
+    "tracks": [
+      {
+        "name": "Hilo Dragstrip",
+        "city": "Hilo"
+      },
+      {
+        "name": "Kauai Raceway Park",
+        "city": "Mana"
+      },
+      {
+        "name": "Maui Raceway Park",
+        "city": "Puunene"
+      }
+    ]
+  },
+  {
+    "state": "Iowa",
+    "tracks": [
+      {
+        "name": "Cedar Falls Raceway Cedar",
+        "city": "Falls"
+      },
+      {
+        "name": "Eddyville Raceway Park",
+        "city": "Oskaloosa"
+      },
+      {
+        "name": "Iowa Speedway",
+        "city": "Newton"
+      },
+      {
+        "name": "Rolling Thunder Dragstrip",
+        "city": "Pacific Junction"
+      },
+      {
+        "name": "Tri-State Raceway",
+        "city": "Earlville"
+      }
+    ]
+  },
+  {
+    "state": "Idaho",
+    "tracks": [
+      {
+        "name": "Firebird Raceway",
+        "city": "Eagle"
+      },
+      {
+        "name": "Sage Raceway",
+        "city": "Idaho Falls"
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "tracks": [
+      {
+        "name": "Accelaquater Raceway Park",
+        "city": "Harrisburg"
+      },
+      {
+        "name": "Byron Dragway",
+        "city": "Byron"
+      },
+      {
+        "name": "Central Illinois Dragway",
+        "city": "Havana"
+      },
+      {
+        "name": "Coles County Dragway",
+        "city": "Charleston"
+      },
+      {
+        "name": "Cordova International Raceway",
+        "city": "Cordova"
+      },
+      {
+        "name": "I-57 Dragstrip",
+        "city": "Benton"
+      },
+      {
+        "name": "Mason County Raceway",
+        "city": "Pekin"
+      },
+      {
+        "name": "Route 66 Raceway",
+        "city": "Elwood"
+      },
+      {
+        "name": "World Wide Technology Raceway",
+        "city": "Madison"
+      }
+    ]
+  },
+  {
+    "state": "Indiana",
+    "tracks": [
+      {
+        "name": "Brown County Dragway",
+        "city": "Nashville"
+      },
+      {
+        "name": "Bunker Hill Dragstrip",
+        "city": "Bunker Hill"
+      },
+      {
+        "name": "Crossroads Dragway",
+        "city": "Terre Haute"
+      },
+      {
+        "name": "Greater Evansville Raceway",
+        "city": "Evansville"
+      },
+      {
+        "name": "Lucas Oil Raceway - INDY",
+        "city": "Indianapolis"
+      },
+      {
+        "name": "Lyons Raceway Park",
+        "city": "Lyons"
+      },
+      {
+        "name": "Muncie Dragway",
+        "city": "Albany"
+      },
+      {
+        "name": "Osceola Dragway",
+        "city": "Osceola"
+      },
+      {
+        "name": "Speed's New Hope Dragway",
+        "city": "Spencer"
+      },
+      {
+        "name": "US41 Motorplex",
+        "city": "Morocco"
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "tracks": [
+      {
+        "name": "Heartland Motorsports Park",
+        "city": "Topeka"
+      },
+      {
+        "name": "Kansas International Dragway",
+        "city": "Maize"
+      },
+      {
+        "name": "Midwest Raceway",
+        "city": "Manhattan"
+      },
+      {
+        "name": "S.R.C.A. Dragstrip",
+        "city": "Great Bend"
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "tracks": [
+      {
+        "name": "Beacon Dragway",
+        "city": "Paducah"
+      },
+      {
+        "name": "Beech Bend Raceway Park",
+        "city": "Bowling Green"
+      },
+      {
+        "name": "I64 Motorplex - Bluegrass Raceway",
+        "city": "Owingsville"
+      },
+      {
+        "name": "Kentucky Dragway",
+        "city": "Clay City"
+      },
+      {
+        "name": "Lake Cumberland Dragway",
+        "city": "Jamestown"
+      },
+      {
+        "name": "London Dragway",
+        "city": "London"
+      },
+      {
+        "name": "Ohio Valley Dragway",
+        "city": "West Point"
+      },
+      {
+        "name": "Thorn Hill Dragstrip",
+        "city": "Morning View"
+      },
+      {
+        "name": "U.S. 60 Dragway",
+        "city": "Hardinsburg"
+      },
+      {
+        "name": "Western Kentucky Raceway",
+        "city": "Cunningham"
+      },
+      {
+        "name": "Windy Hollow Dragway",
+        "city": "Owensboro"
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "tracks": [
+      {
+        "name": "Louisiana Raceway",
+        "city": "Eunice"
+      },
+      {
+        "name": "No Problem Raceway",
+        "city": "Belle Rose"
+      },
+      {
+        "name": "State Capitol Raceway",
+        "city": "Port Allen"
+      },
+      {
+        "name": "Thunder Road Raceway Park",
+        "city": "Gilliam"
+      },
+      {
+        "name": "Twin City Motorsports Park",
+        "city": "Monroe"
+      }
+    ]
+  },
+  {
+    "state": "Maryland",
+    "tracks": [
+      {
+        "name": "75-80 Dragway",
+        "city": "Monrovia"
+      },
+      {
+        "name": "Capitol Raceway",
+        "city": "Crofton"
+      },
+      {
+        "name": "Cecil County Dragway",
+        "city": "Rising Sun"
+      },
+      {
+        "name": "Maryland International Raceway",
+        "city": "Mechanicsville"
+      },
+      {
+        "name": "Mason-Dixon Dragway",
+        "city": "Boonsboro"
+      }
+    ]
+  },
+  {
+    "state": "Maine",
+    "tracks": [
+      {
+        "name": "Oxford Plains Dragway",
+        "city": "Oxford"
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "tracks": [
+      {
+        "name": "LaPeer International Dragway",
+        "city": "LaPeer"
+      },
+      {
+        "name": "Mid Michigan Motorplex",
+        "city": "Stanton"
+      },
+      {
+        "name": "Milan Dragway",
+        "city": "Milan"
+      },
+      {
+        "name": "Northern Michigan Dragway",
+        "city": "Bear Lake"
+      },
+      {
+        "name": "Ubly Dragway",
+        "city": "Ubly"
+      }
+    ]
+  },
+  {
+    "state": "Minnesota",
+    "tracks": [
+      {
+        "name": "Brainerd International Raceway",
+        "city": "Brainerd"
+      },
+      {
+        "name": "Grove Creek Raceway",
+        "city": "Dayton"
+      },
+      {
+        "name": "Top End Dragways",
+        "city": "Glyndon"
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "tracks": [
+      {
+        "name": "Bonne Terre Drag Stip",
+        "city": "Bonne Terre"
+      },
+      {
+        "name": "Flying H Drag Strip",
+        "city": "Odessa"
+      },
+      {
+        "name": "Jeffers Motorsports Park",
+        "city": "Sikeston"
+      },
+      {
+        "name": "Kansas City International Raceway",
+        "city": "Kansas City"
+      },
+      {
+        "name": "Mo-Kan Dragway",
+        "city": "Asbury"
+      },
+      {
+        "name": "Ozark Raceway Park",
+        "city": "Rogersville"
+      },
+      {
+        "name": "U.S. 36 Raceway",
+        "city": "Osborn"
+      }
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "tracks": [
+      {
+        "name": "Battlefield Dragstrip",
+        "city": "Collinsville"
+      },
+      {
+        "name": "Byhalia Raceway",
+        "city": "Fulton"
+      },
+      {
+        "name": "Fulton Dragway",
+        "city": "Fulton"
+      },
+      {
+        "name": "Greenville Raceway Park",
+        "city": "Greenville"
+      },
+      {
+        "name": "Gulfport Dragway",
+        "city": "Gulfport"
+      },
+      {
+        "name": "Holly Springs Motorsports",
+        "city": "Holly Springs"
+      },
+      {
+        "name": "Hub City Dragway",
+        "city": "Hattiesburg"
+      },
+      {
+        "name": "Jackson Dragway, Inc.",
+        "city": "Jackson"
+      },
+      {
+        "name": "Lena Dragway",
+        "city": "Lena"
+      },
+      {
+        "name": "Winston County Drag Strip",
+        "city": "Ripley"
+      }
+    ]
+  },
+  {
+    "state": "Montana",
+    "tracks": [
+      {
+        "name": "Lewistown Raceway",
+        "city": "Lewistown"
+      },
+      {
+        "name": "Lost Creek Raceway",
+        "city": "Anaconda"
+      },
+      {
+        "name": "Yellowstone Dragstrip",
+        "city": "Acton"
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "tracks": [
+      {
+        "name": "Brewers Speedway",
+        "city": "Rocky Mount"
+      },
+      {
+        "name": "Coastal Plains Raceway",
+        "city": "Jacksonville"
+      },
+      {
+        "name": "Farmington Dragway",
+        "city": "Mocksville"
+      },
+      {
+        "name": "Fayetteville Motorsports Park",
+        "city": "Fayetteville"
+      },
+      {
+        "name": "Galot Motorsports Park",
+        "city": "Benson"
+      },
+      {
+        "name": "Harrells Raceway",
+        "city": "Wallace"
+      },
+      {
+        "name": "Kinston Drag Strip",
+        "city": "Kinston"
+      },
+      {
+        "name": "Mooresville Dragway",
+        "city": "Mooresville"
+      },
+      {
+        "name": "New Bern Motorsports Park",
+        "city": "Bridgeton"
+      },
+      {
+        "name": "Northeast Dragway",
+        "city": "Hertford"
+      },
+      {
+        "name": "OBX - Outer Banks Speedway",
+        "city": "Cresswell"
+      },
+      {
+        "name": "Piedmont Dragway",
+        "city": "Julian"
+      },
+      {
+        "name": "Rico Dragstrip",
+        "city": "Clarkton"
+      },
+      {
+        "name": "Rockingham Dragway",
+        "city": "Rockingham"
+      },
+      {
+        "name": "Roxboro Motorsports Dragway",
+        "city": "Timberlake"
+      },
+      {
+        "name": "Shadyside Dragway",
+        "city": "Shelby"
+      },
+      {
+        "name": "The New 710 Dragway",
+        "city": "Rowland"
+      },
+      {
+        "name": "The New Thunder Valley Dragway",
+        "city": "Red Springs"
+      },
+      {
+        "name": "Wayne County Dragstrip",
+        "city": "Pikeville"
+      },
+      {
+        "name": "Wilkesboro Dragway",
+        "city": "Wilkesboro"
+      },
+      {
+        "name": "Z-Max Dragway",
+        "city": "Concord"
+      }
+    ]
+  },
+  {
+    "state": "North Dakota",
+    "tracks": [
+      {
+        "name": "Magic City International Dragway",
+        "city": "Minot"
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "tracks": [
+      {
+        "name": "Kearney Raceway Park",
+        "city": "Kearney"
+      },
+      {
+        "name": "Nebraska Motorplex",
+        "city": "Lincoln"
+      }
+    ]
+  },
+  {
+    "state": "New Hampshire",
+    "tracks": [
+      {
+        "name": "New England Dragway",
+        "city": "Epping"
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "tracks": [
+      {
+        "name": "Atco Dragway",
+        "city": "Atco"
+      },
+      {
+        "name": "Island Dragway Great",
+        "city": "Meadows"
+      },
+      {
+        "name": "Old Bridge Township Raceway Park",
+        "city": "Englishtown"
+      }
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "tracks": [
+      {
+        "name": "Albuquerque Dragway",
+        "city": "Albuquerque"
+      },
+      {
+        "name": "Alien City Dragway",
+        "city": "Roswell"
+      },
+      {
+        "name": "Arroyo Seco Raceway",
+        "city": "Deming"
+      },
+      {
+        "name": "Hobbs Motorsports Park",
+        "city": "Hobbs"
+      },
+      {
+        "name": "Old Cavern Dragway",
+        "city": "Carlsbad"
+      }
+    ]
+  },
+  {
+    "state": "Nevada",
+    "tracks": [
+      {
+        "name": "Las Vegas Motor Speedway",
+        "city": "Las Vegas"
+      },
+      {
+        "name": "Top Gun Raceway",
+        "city": "Fallon"
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "tracks": [
+      {
+        "name": "Empire Dragway",
+        "city": "Leicester"
+      },
+      {
+        "name": "ESTA Saftey Park Dragstrip",
+        "city": "Cicero"
+      },
+      {
+        "name": "Lancaster Dragway",
+        "city": "Lancaster"
+      },
+      {
+        "name": "Lebanon Valley Dragway",
+        "city": "West Lebanon"
+      },
+      {
+        "name": "Skyview Drags",
+        "city": "Barton"
+      },
+      {
+        "name": "Spencer Speedway",
+        "city": "Willamson"
+      }
+    ]
+  },
+  {
+    "state": "Ohio",
+    "tracks": [
+      {
+        "name": "Dragway 42 West",
+        "city": "Salem"
+      },
+      {
+        "name": "Edgewater Sports Park",
+        "city": "Cleves"
+      },
+      {
+        "name": "KD Dragway South",
+        "city": "Webster"
+      },
+      {
+        "name": "Kil-Kare Dragway",
+        "city": "Xenia"
+      },
+      {
+        "name": "Magnolia Drag Strip",
+        "city": "Magnolia"
+      },
+      {
+        "name": "Marion County International Raceway",
+        "city": "LaRue"
+      },
+      {
+        "name": "National Trail Raceway",
+        "city": "Hebron"
+      },
+      {
+        "name": "Pacemakers Dragway Park Mount",
+        "city": "Vernon"
+      },
+      {
+        "name": "Quaker City Motorsports Park",
+        "city": "Salem"
+      },
+      {
+        "name": "Steel Valley Dragway",
+        "city": "Smithfield"
+      },
+      {
+        "name": "Summit Motorsports Park - Norwalk",
+        "city": "Norwalk"
+      },
+      {
+        "name": "Thompson Raceway Park",
+        "city": "Thompson"
+      },
+      {
+        "name": "Tri-State Dragway",
+        "city": "Hamilton"
+      }
+    ]
+  },
+  {
+    "state": "Oklahoma",
+    "tracks": [
+      {
+        "name": "Ardmore Raceway",
+        "city": "Ardmore"
+      },
+      {
+        "name": "Outlaw Dragway",
+        "city": "Sallisaw"
+      },
+      {
+        "name": "Sooner Motorplex",
+        "city": "Lawton"
+      },
+      {
+        "name": "Thunder Valley Raceway Park",
+        "city": "Lexington"
+      },
+      {
+        "name": "Tulsa Raceway Park",
+        "city": "Tulsa"
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "tracks": [
+      {
+        "name": "Coos Bay International Speedway",
+        "city": "Coos Bay"
+      },
+      {
+        "name": "Lakeview Dragstrip",
+        "city": "Lakeview"
+      },
+      {
+        "name": "Madras Dragstrip",
+        "city": "Madras"
+      },
+      {
+        "name": "Medford Dragstrip",
+        "city": "Central Point"
+      },
+      {
+        "name": "Portland International Raceway",
+        "city": "Portland"
+      },
+      {
+        "name": "Woodburn Dragstrip",
+        "city": "Woodburn"
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "tracks": [
+      {
+        "name": "Beaver Springs Dragway Beaver",
+        "city": "Springs"
+      },
+      {
+        "name": "Keystone Raceway Park",
+        "city": "New Alexandria"
+      },
+      {
+        "name": "Lucky Drag City",
+        "city": "Wattsburg"
+      },
+      {
+        "name": "Maple Grove Raceway",
+        "city": "Mohnton"
+      },
+      {
+        "name": "Numidia Dragway",
+        "city": "Catawissa"
+      },
+      {
+        "name": "South Mountain Raceway",
+        "city": "Boiling Spring"
+      }
+    ]
+  },
+  {
+    "state": "South Carolina",
+    "tracks": [
+      {
+        "name": "Bowman Dragway",
+        "city": "Orangeburg"
+      },
+      {
+        "name": "Carolina Dragway, Inc.",
+        "city": "Aiken"
+      },
+      {
+        "name": "Darlington Dragway",
+        "city": "Hartsville"
+      },
+      {
+        "name": "Greer Dragway",
+        "city": "Greer"
+      },
+      {
+        "name": "Midlands Raceway Park",
+        "city": "Lugoft"
+      },
+      {
+        "name": "Midway Dragway",
+        "city": "Salters"
+      },
+      {
+        "name": "North Myrtle Beach Drag Strip",
+        "city": "Longs"
+      },
+      {
+        "name": "Pageland Dragstrip",
+        "city": "Jefferson"
+      },
+      {
+        "name": "South Carolina Motorplex",
+        "city": "Orangeberg"
+      },
+      {
+        "name": "Union County Dragway",
+        "city": "Union"
+      },
+      {
+        "name": "Ware Shoals Dragway Ware",
+        "city": "Shoals"
+      }
+    ]
+  },
+  {
+    "state": "South Dakota",
+    "tracks": [
+      {
+        "name": "Oahe Speedway",
+        "city": "Pierre"
+      },
+      {
+        "name": "Sturgis Dragway",
+        "city": "Sturgis"
+      },
+      {
+        "name": "Thunder Valley Dragways",
+        "city": "Parker"
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "tracks": [
+      {
+        "name": "411 Dragway",
+        "city": "Maryville"
+      },
+      {
+        "name": "Blue Mountain Dragway",
+        "city": "Michie"
+      },
+      {
+        "name": "Bristol Dragway",
+        "city": "Bristol"
+      },
+      {
+        "name": "Cherokee Race Park",
+        "city": "Rogersville"
+      },
+      {
+        "name": "Clarksville Speedway",
+        "city": "Clarksville"
+      },
+      {
+        "name": "Crossville Dragway",
+        "city": "Crossville"
+      },
+      {
+        "name": "English Mountain Raceway",
+        "city": "Newport"
+      },
+      {
+        "name": "Gleason Dragstrip",
+        "city": "Gleason"
+      },
+      {
+        "name": "Jackson Dragway",
+        "city": "Beech Bluff"
+      },
+      {
+        "name": "Knoxville Dragstrip",
+        "city": "Maynardsville"
+      },
+      {
+        "name": "Memphis International Raceway",
+        "city": "Millington"
+      },
+      {
+        "name": "Mid-South Dragway",
+        "city": "Dyersburg"
+      },
+      {
+        "name": "Middle Tennessee Dragway",
+        "city": "Buffalo Valley"
+      },
+      {
+        "name": "Music City Raceway",
+        "city": "Goodlettsville"
+      },
+      {
+        "name": "US 43 Dragway",
+        "city": "Ethridge"
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "tracks": [
+      {
+        "name": "Alamo City Motorplex",
+        "city": "Marion"
+      },
+      {
+        "name": "Amarillo Dragway",
+        "city": "Amarillo"
+      },
+      {
+        "name": "Angleton Dragway",
+        "city": "Angleton"
+      },
+      {
+        "name": "Big Country Raceway",
+        "city": "Abilene"
+      },
+      {
+        "name": "Cedar Creek Dragway",
+        "city": "Kemp"
+      },
+      {
+        "name": "Cherokee County Motorsports Park",
+        "city": "Troup"
+      },
+      {
+        "name": "Dallas Raceway",
+        "city": "Crandall"
+      },
+      {
+        "name": "Desert Thunder Raceway",
+        "city": "Midland"
+      },
+      {
+        "name": "Edinburg Raceway",
+        "city": "Edinburg"
+      },
+      {
+        "name": "El Paso Motorplex",
+        "city": "El Paso"
+      },
+      {
+        "name": "Evadale Raceway",
+        "city": "Evadale"
+      },
+      {
+        "name": "I-30 Dragway",
+        "city": "Caddo Mills"
+      },
+      {
+        "name": "Little River Dragway",
+        "city": "Holland"
+      },
+      {
+        "name": "Lone Star Motorsports Park",
+        "city": "Sealy"
+      },
+      {
+        "name": "Lubbock Dragway",
+        "city": "Lubbock"
+      },
+      {
+        "name": "Navasota Raceway",
+        "city": "Navasota"
+      },
+      {
+        "name": "North Star Dragway",
+        "city": "Denton"
+      },
+      {
+        "name": "Paris Dragstrip",
+        "city": "Paris"
+      },
+      {
+        "name": "Penwell Knights - Caprock Motorplex",
+        "city": "Penwell"
+      },
+      {
+        "name": "Pine Valley Raceway Park",
+        "city": "Lufkin"
+      },
+      {
+        "name": "Royal Purple Raceway - Houston",
+        "city": "Baytown"
+      },
+      {
+        "name": "Texas Motorplex",
+        "city": "Ennis"
+      },
+      {
+        "name": "Texas Raceway",
+        "city": "Kennedale"
+      },
+      {
+        "name": "Wichita Raceway Park",
+        "city": "Iowa Park"
+      },
+      {
+        "name": "Xtreme Raceway Park",
+        "city": "Ferris"
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "tracks": [
+      {
+        "name": "Red Hills Raceway",
+        "city": "Hurricane"
+      },
+      {
+        "name": "Rocky Mountain Raceways",
+        "city": "West Valley City"
+      }
+    ]
+  },
+  {
+    "state": "Virginia",
+    "tracks": [
+      {
+        "name": "Colonial Beach Dragway",
+        "city": "Colonial Beach"
+      },
+      {
+        "name": "Elk Creek Dragway, Inc.",
+        "city": "Elk Creek"
+      },
+      {
+        "name": "Motor Mile Dragway",
+        "city": "Radford"
+      },
+      {
+        "name": "Natural Bridge Dragstrip",
+        "city": "Natural Bridge"
+      },
+      {
+        "name": "New London Dragstrip",
+        "city": "Forest"
+      },
+      {
+        "name": "Richmond Dragway",
+        "city": "Sandston"
+      },
+      {
+        "name": "Sumerduck Dragway",
+        "city": "Sumerduck"
+      },
+      {
+        "name": "Virginia Motorsports Park",
+        "city": "Petersburg"
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "tracks": [
+      {
+        "name": "Bremerton Raceway",
+        "city": "Port Orchard"
+      },
+      {
+        "name": "Pacific Raceways",
+        "city": "Kent"
+      },
+      {
+        "name": "Renegade Raceway",
+        "city": "Wapato"
+      },
+      {
+        "name": "Spokane County Raceway",
+        "city": "Airway Heights"
+      },
+      {
+        "name": "Walla Walla Drag Strip",
+        "city": "Walla Walla"
+      }
+    ]
+  },
+  {
+    "state": "Wisconsin",
+    "tracks": [
+      {
+        "name": "Great Lakes Dragaway",
+        "city": "Union Grove"
+      },
+      {
+        "name": "Rock Falls Raceway",
+        "city": "Eau Claire"
+      },
+      {
+        "name": "Wisconsin International Raceway",
+        "city": "Kaukauna"
+      }
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "tracks": [
+      {
+        "name": "Fairmont Dragway",
+        "city": "Fairmont"
+      },
+      {
+        "name": "Kanawha Valley Dragway",
+        "city": "Southside"
+      },
+      {
+        "name": "Tri-River Dragway",
+        "city": "Fort Gay"
+      }
+    ]
+  },
+  {
+    "state": "Wyoming",
+    "tracks": [
+      {
+        "name": "Douglas Motorsports Park",
+        "city": "Douglas"
+      }
+    ]
+  }
+]
