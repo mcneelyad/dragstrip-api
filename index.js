@@ -1,26 +1,25 @@
 const express = require("express");
 const fs = require("fs");
+const rateLimit = require("express-rate-limit");
+
+const limiter = rateLimit({
+  windowMs: 5 * 60 * 1000, // 5 minutes
+  limit: 10, 
+  standardHeaders: true, // add the `RateLimit-*` headers to the response
+  legacyHeaders: false, // remove the `X-RateLimit-*` headers from the response
+});
 
 const app = express();
 app.use(express.json());
 
-// Middleware to handle JSON parsing errors
-app.use((err, req, res, next) => {
-    if (err instanceof SyntaxError && err.status === 400 && 'body' in err) {
-        return res.status(400).send({
-            "message": "error",
-            "data": "Invalid JSON format"
-        });
-    }
-    next();
-});
+// Apply rate limiting middleware
+app.use(limiter);
 
 app.use((req, res, next) => {
     res.setHeader("Content-Type", "application/json");
     next();
 });
 
-// logging middleware
 app.use((req, res, next) => {
     console.log(`${req.method} ${req.url}`);
     next();
@@ -63,6 +62,21 @@ app.get("/location", (req, res) => {
             "data": "State parameter is required"
         });
     }
+
+    const sanitizedState = state.replace(/[^a-zA-Z\s]/g, '').trim().toLowerCase();
+    if (sanitizedState.length === 0) {
+        return res.status(400).send({
+            "message": "error",
+            "data": "Invalid state parameter"
+        });
+    } 
+
+    if (!/^[a-zA-Z\s]+$/.test(sanitizedState)) {
+        return res.status(400).send({
+            "message": "error",
+            "data": "State parameter must contain only letters"
+        })
+    }
     const dragstrips = cachedData.filter(strip => strip.state.toLowerCase() === state.toLowerCase());
     if (dragstrips.length > 0) {
         res.send({
@@ -76,6 +90,13 @@ app.get("/location", (req, res) => {
             "data": `No dragstrips found for ${state}`
         });
     }
+});
+
+app.all('/{*any}', (req, res, next) => {
+    res.send({
+        "message": "error",
+        "data": "Unknown endpoint"
+    })
 });
 
 app.listen(process.env.PORT || 5000, () => {
