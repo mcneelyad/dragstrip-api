@@ -80,3 +80,6 @@ Returns dragstrip tracks for a specific U.S. state.
   }
 ]
 ```
+
+## Live Demo
+You can test the API live at [Dragstrip API Demo](https://dragstrip-api-299a001ae9ca.herokuapp.com/).
